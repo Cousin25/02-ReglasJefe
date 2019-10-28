@@ -21,9 +21,7 @@ package org.japo.java.main;
  */
 public class Main {
 
-   
     public static void main(String[] args) {
-        System.out.printf("Artículo 1.%s%nArtículo 2.%s%nArtículo 3.%s%n", "El jefe tiene la razón." , "El jefe SIMEPRE tiene la razón." , "En caso de duda se aplicará el caso número2.");
+        System.out.printf("Artículo 1.%s%nArtículo 2.%s%nArtículo 3.%s%n", "El jefe tiene la razón.", "El jefe SIMEPRE tiene la razón.", "En caso de duda se aplicará el caso número2.");
     }
-    
 }
